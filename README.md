@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mus-zia
 - 👀 I’m interested in Front and Backend Web Development
-- 🌱 I’m currently learning how to create semi useful Node packages
+- 🌱 Currently learning how to create (semi) useful Node packages and web apps
 - 💞️ I’m looking to collaborate on anything that betters my code
 
 <!---
