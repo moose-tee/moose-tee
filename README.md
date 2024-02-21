@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mus-zia
-- 👀 My first foray into code was with Front and Backend Web Development andlearning how to create (semi) useful Node packages and web apps
+- 👀 My first foray into code was with Front and Backend Web Development and learning how to create (semi) useful Node packages and web apps
 - 🌱 Currently focused on all things Python after completing a Software Engineering Bootcamp
 - 💞️ I’m looking to collaborate on anything that helps others and improves my code
 
